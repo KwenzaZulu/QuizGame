@@ -7,19 +7,12 @@ The project demonstrates object-oriented design, MVC-style separation, external 
 
 
 Features
-
 -Dynamic question loading from JSON
-
 -Multiple-choice question interface using RadioButtons
-
 -Score tracking system
-
 -Multi-scene navigation (Menu, Quiz, Settings, Score)
-
 -Fullscreen and window state preservation across scenes
-
 -External library integration (Gson)
-
 -Clean separation between UI (FXML) and logic (Controllers)
 
 
@@ -79,5 +72,6 @@ Future Improvements
 -Volume control for both sound effects and music
 
 -Using Spinner for number of questions per quiz
+
 
 
