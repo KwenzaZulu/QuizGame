@@ -55,6 +55,10 @@ Questions are stored in a JSON file and parsed into Java objects at runtime.
 - UI animations and styling improvements
 - Difficulty filtering
 - Sound effects and music integration
+- Text to voice inclusion
+- Volume control for both sound effects and music
+- Using Spinner for number of questions per quiz
+
 
 
 
