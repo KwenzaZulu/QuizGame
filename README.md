@@ -5,6 +5,7 @@ Overview
 This project is a desktop quiz application developed using Java and JavaFX. The application dynamically loads multiple-choice questions from a JSON file using the Gson library and displays them through a multi-scene user interface.
 The project demonstrates object-oriented design, MVC-style separation, external library integration, and runtime configuration management.
 
+
 Features
 
 -Dynamic question loading from JSON
@@ -21,6 +22,7 @@ Features
 
 -Clean separation between UI (FXML) and logic (Controllers)
 
+
 Technologies Used
 
 -Java
@@ -33,6 +35,7 @@ Technologies Used
 
 -Eclipse IDE
 
+
 Architecture
 
 -The application follows a simplified MVC structure:
@@ -44,6 +47,7 @@ Architecture
 -Controller → MenuController, QuizController, SettingsController, ScoreController
 
 -Questions are stored in a JSON file and parsed into Java objects at runtime.
+
 
 What I Learned
 
@@ -58,6 +62,7 @@ What I Learned
 -Preserving window state during scene transitions
 
 -Debugging runtime and reflection-related errors
+
 
 Future Improvements
 
@@ -74,4 +79,5 @@ Future Improvements
 -Volume control for both sound effects and music
 
 -Using Spinner for number of questions per quiz
+
 
